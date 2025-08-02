@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=red&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Theva Sanjeiv" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=red&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Theva+Sanjeiv" />
 </h1>
 
 ![Visitors](https://komarev.com/ghpvc/?username=ThevaSanjeiv&color=blueviolet)
+
 
 ## 🔨 What I'm Currently Working On
 
@@ -18,7 +19,7 @@
 
 ## 📝 Latest Article
 
-- [Volunteering Experience at TechFest – A Look Behind the Scenes](https://www.linkedin.com/in/thevasanjeiv/recent-activity/all/))
+- [Volunteering Experience at TechFest – A Look Behind the Scenes] (https://www.linkedin.com/in/thevasanjeiv/recent-activity/all/))
 
 
 ## 🌍 Open Source Contributions
@@ -41,40 +42,38 @@
 
 
 ## 📄 View My Resume
-[Resume PDF](https://github.com/Kalaiselvi-A/resume.pdf)
+
+[Resume PDF](https://github.com/ThevaSanjeiv/ThevaSanjeiv/raw/main/THEVASANJEIV_FullStackDeveloper_RESUME.pdf)
+
 
 ## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system designed to detect and alert on network intrusions using signature-based and anomaly-based detection techniques. 
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet capture, analysis, and intrusion detection.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/NIDS-Demo)
-  
-### 2. AI-Powered E-Commerce Recommendation System
-An e-commerce platform using AI-based recommendation algorithms to personalize user experiences.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: User authentication, product recommendation, real-time data analysis.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/ECommerce-AI)
 
-### 3. Face Recognition-Based Online Attendance System
-A deep-learning-powered face recognition system for automating attendance.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, recognition, and attendance marking.
-- **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
+### 1. College CMS Website
+A web-based College Content Management System to streamline academic and administrative tasks for students and faculty.
+- **Technologies**: Django, Python, HTML, CSS, JavaScript
+- **Features**: User authentication, announcements, student/faculty dashboard, course and attendance management
+- **Live Demo**: [GitHub Repo](https://github.com/ThevaSanjeiv/College-CMS)
+
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## 💬 Testimonials
-- "Kalaiselvi is a dedicated and talented developer with a keen eye for detail." – Mentor, TNS India Foundation.
+
+- _"Theva Sanjeiv is a consistent learner who brings energy and ownership to every project." – Mentor, TNS India Foundation.
+
   
 ## 📚 Currently Learning
-- TensorFlow for Deep Learning
-- Advanced Microservices with Spring Boot
+
+- Django Best Practices for Scalable Web Apps  
+- MongoDB Integration with Django  
+- JavaScript for Front-End Interactivity
 
